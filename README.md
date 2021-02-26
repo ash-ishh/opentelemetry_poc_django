@@ -14,6 +14,7 @@ pip install -r requirements.txt
 ```
 
 3 - Setup Jaeger for collection and visualization
+
 docker-compose.yml
 ```
 version: '3'
